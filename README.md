@@ -1,5 +1,3 @@
-Here’s a comprehensive `README.md` file that includes all the necessary instructions for setting up, running, and understanding your project:
-
 ---
 
 # Image Processing API
