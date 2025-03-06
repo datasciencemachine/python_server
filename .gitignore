@@ -1,0 +1,48 @@
+# Ignore files and folders starting with _
+_*
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore Celery-related files
+celerybeat-schedule
+celerybeat.pid
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
